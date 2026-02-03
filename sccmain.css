@@ -1,0 +1,23 @@
+.box {
+    position: relative;
+    width: 100%;
+    height: 1000px;
+}
+.box #btn2 {
+    position: absolute;
+    top: 300px;
+}
+.box #inputvaluebase {
+    position: absolute;
+    top: 302px;
+    left: 150px;
+}
+.box #invalue {
+    position: absolute;
+    top: 250px;
+}
+.box #imgbutton {
+    position: absolute;
+    left: 10px;
+    top: 350px;
+}
